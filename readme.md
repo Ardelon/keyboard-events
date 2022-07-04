@@ -1,4 +1,4 @@
-# Mouse Events
+# Keyboard Events
 Demonstration of HTML DOM elements keyboard events. 
 
 - keydown
