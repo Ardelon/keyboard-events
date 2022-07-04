@@ -6,5 +6,5 @@ Demonstration of HTML DOM elements keyboard events.
 - keyup
 
 
-![Alt Text](https://media.giphy.com/media/DijPay0cm9Z8GpsOW2/giphy.gif)
+![Alt Text](https://media.giphy.com/media/sFPTTOZs18L2SnDewg/giphy.gif)
 
